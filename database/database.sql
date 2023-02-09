@@ -1,4 +1,4 @@
---
+-- Jenkins new pipeline
 -- PostgreSQL database dump
 --
 
